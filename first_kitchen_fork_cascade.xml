@@ -1,8 +1,9 @@
+<?xml version="1.0"?>
+
 <!-- trained by Trevor Sherrard.-->
 <!-- Email: Sherrardtr@gmail.com -->
 <!-- GitHub: https://github.com/sherrardTr4129 -->
 
-<?xml version="1.0"?>
 <opencv_storage>
 <cascade>
   <stageType>BOOST</stageType>
